@@ -43,4 +43,6 @@ The final website provided The Homecare Professionals with a modern, responsive,
 Add screenshots of the website below:
 
 
-[homepage (the professionals).pdf](https://github.com/user-attachments/files/27312057/homepage.the.professionals.pdf)
+[homepage.pdf](https://github.com/user-attachments/files/27312117/homepage.pdf)
+[Homecare.pdf](https://github.com/user-attachments/files/27312129/Homecare.pdf)
+[deploy.pdf](https://github.com/user-attachments/files/27312127/deploy.pdf)
